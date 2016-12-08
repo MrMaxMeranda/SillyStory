@@ -1,3 +1,3 @@
 # SillyStory
 
-Okay, I just did this, and I have no flippin' idea how github works... couldn't do this again to save my cheese.
+This work is by someone else for teching purposes. It will be modified in due time to become something else maybe?
